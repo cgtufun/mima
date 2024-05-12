@@ -4,6 +4,8 @@ body{background-color:#313946}
 .cfb{clear:both}
 .psdp-title{color:#d3d4d4;display:block;text-align:center}
 .psdp-text{color:#818284;text-align:center}
+.psdp-text,a
+{color:#de0ea6;text-align:center}
 .psdp-input{position:relative}
 .psdp-input input:focus{outline:0}
 .psdp-input .psdp-pwd{display:inline-block;color:#797b7e;border:0;background:#444a56}
